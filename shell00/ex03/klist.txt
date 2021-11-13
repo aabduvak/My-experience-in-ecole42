@@ -1,0 +1,5 @@
+Credentials cache: API:8B8AF3FD-118A-4192-8421-AA97F8CE95E9
+        Principal: aabduvak@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 22 02:22:57 2021  Oct 22 12:22:43 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
